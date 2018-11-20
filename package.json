@@ -1,0 +1,22 @@
+{
+  "name": "paysafecard",
+  "version": "1.0.0",
+  "description": "Unofficial PaySafeCard Node.js wrapper",
+  "main": "src/PaySafeCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pieczorx/PaySafeCard.git"
+  },
+  "author": "pieczorx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pieczorx/PaySafeCard/issues"
+  },
+  "homepage": "https://github.com/pieczorx/PaySafeCard#readme",
+  "dependencies": {
+    "node-fetch": "^2.3.0"
+  }
+}
