@@ -1,6 +1,8 @@
 # PaySafeCard
 Unofficial PaySafeCard Node.js wrapper
 
+[![npm version](https://badge.fury.io/js/paysafecard.svg)](https://badge.fury.io/js/paysafecard)
+
 ## Important
 This module uses ES6 promises, so if you need older Node version support please use Babel.
 ## Install
